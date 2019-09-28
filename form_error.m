@@ -1,4 +1,3 @@
-% function for form error
 function z = form_error()
 x = 0:5:95;
 y = 0:5:45;
